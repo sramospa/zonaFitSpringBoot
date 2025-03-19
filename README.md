@@ -30,9 +30,6 @@ ZonaFitSpringBoot es una aplicación desarrollada con Spring Boot para la gesti�
    mvn spring-boot:run
    ```
 
-## Endpoints API REST
-La aplicación expone los siguientes endpoints:
-
 ## Estructura del Proyecto
 El proyecto sigue una arquitectura en capas:
 - **Modelo (`model`)**: Contiene las entidades como `Cliente`.
